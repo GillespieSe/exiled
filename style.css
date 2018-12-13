@@ -1,0 +1,22 @@
+body {
+    
+      font-family: 'Permanent Marker', cursive;
+      background: black;
+  } 
+  .font-effect-anaglyph { 
+    font-size: 100px;
+  
+  }
+  .font-effect-3d {
+    font-size: 30px;
+    color: red;
+    margin: 30px;
+    
+  }
+  .font-effect-fire-animation {
+    font-size: 20px;
+    margin: 30px;
+  }
+ p {
+     color:red;
+ }
