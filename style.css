@@ -1,7 +1,7 @@
 body {
     
       font-family: 'Permanent Marker', cursive;
-      background: black;
+      background: url("1234.jpg");
   } 
   .font-effect-anaglyph { 
     font-size: 100px;
@@ -20,3 +20,24 @@ body {
  p {
      color:red;
  }
+
+b {
+  color:WHITE;
+  position: absolute;
+  bottom: 32px;
+  left: 16px;
+  font-size: 18px;
+}
+
+form {
+  color:violet;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+img {
+  position:fixed;
+  top: 10px;
+  left: 1px;
